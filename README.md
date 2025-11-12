@@ -11,6 +11,7 @@ Explore our YouTube tutorials on Taskflow programming:
 | [Taskflow in 15 Minutes](https://youtu.be/QsmoXNXJoDY?si=rE1j963L8ha6jxb9) | [PDF](slides/taskflow-15mins.pdf) | [Quick Start](https://taskflow.github.io/taskflow/index.html) |
 | [Static Task Graph Programming (STGP)](https://youtu.be/QdjwrH1H4ro?si=dEDi47zLXojF2Yi6) | [PDF](slides/static-task-graph-programming.pdf) | [Static Tasking](https://taskflow.github.io/taskflow/StaticTasking.html) |
 | [Control Taskflow Graph (CTFG) Programming](https://youtu.be/SghMH2TGXEs?si=nb_xZCqlb7N81aT9) | [PDF](slides/control-taskflow-graph-programming-model.pdf) | [Conditional Tasking](https://taskflow.github.io/taskflow/ConditionalTasking.html) |
+| Executor | PDF | [Executor](https://taskflow.github.io/taskflow/ExecuteTaskflow.html) |
 
 ## 🧩 Related Resources
 - [Taskflow Website](https://taskflow.github.io)
