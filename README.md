@@ -22,7 +22,3 @@ Explore our YouTube tutorials on Taskflow programming:
 For questions or collaboration inquiries, please contact [Dr. Tsung-Wei (TW) Huang](https://tsung-wei-huang.github.io/) via [tsung-wei dot huang at wisc dot edu]  
 
 
----
-
-> “Taskflow enables efficient parallel execution through task graph–based decomposition.”  
-> — *Taskflow Design Principle*
