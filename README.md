@@ -19,6 +19,10 @@ Explore our YouTube tutorials on Taskflow programming:
 - [Taskflow Documentation](https://taskflow.github.io/taskflow/index.html)
 - [Taskflow Technical Paper (IEEE TPDS)](https://ieeexplore.ieee.org/document/9511796)
 
+If you are using Taskflow, please cite the following paper we published at 2022 IEEE TPDS:
+
++ Tsung-Wei Huang, Dian-Lun Lin, Chun-Xun Lin, and Yibo Lin, &quot;[Taskflow: A Lightweight Parallel and Heterogeneous Task Graph Computing System](https://tsung-wei-huang.github.io/papers/tpds21-taskflow.pdf),&quot; <i>IEEE Transactions on Parallel and Distributed Systems (TPDS)</i>, vol. 33, no. 6, pp. 1303-1320, June 2022
+
 ## 💬 Contact
 For questions or collaboration inquiries, please contact [Dr. Tsung-Wei (TW) Huang](https://tsung-wei-huang.github.io/) via [tsung-wei dot huang at wisc dot edu]  
 
