@@ -12,6 +12,7 @@ Explore our YouTube tutorials on Taskflow programming:
 | [Static Task Graph Programming (STGP)](https://youtu.be/QdjwrH1H4ro?si=dEDi47zLXojF2Yi6) | [PDF](slides/static-task-graph-programming.pdf) | [Static Tasking](https://taskflow.github.io/taskflow/StaticTasking.html) |
 | [Control Taskflow Graph (CTFG) Programming](https://youtu.be/SghMH2TGXEs?si=nb_xZCqlb7N81aT9) | [PDF](slides/control-taskflow-graph-programming-model.pdf) | [Conditional Tasking](https://taskflow.github.io/taskflow/ConditionalTasking.html) |
 | [Executor](https://www.youtube.com/watch?v=XHU5AbTeUfI) | [PDF](slides/executor.pdf) | [Executor](https://taskflow.github.io/taskflow/ExecuteTaskflow.html) |
+| [Dynamic Task Graph Programming (DTGP)](https://www.youtube.com/watch?v=3tZYLT2rAHI) | [PDF](slides/dynamic-task-graph-programming.pdf) | [Async Tasks with Dependencies](https://taskflow.github.io/taskflow/DependentAsyncTasking.html) |
 
 ## 🧩 Related Resources
 - [Taskflow Website](https://taskflow.github.io)
