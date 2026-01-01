@@ -1,6 +1,6 @@
-# Taskflow Academy
+# Welcome to Taskflow Academy! 
 
-Welcome to Taskflow Academy! This repository contains a collection of learning materials for mastering [Taskflow](https://github.com/taskflow/taskflow), a modern C++ library for task-parallel programming. Here, we provide structured resources for developers, students, and researchers, covering everything from fundamental task-graph concepts to advanced techniques in high-performance task-parallel computing using Taskflow!
+This repository contains a collection of learning materials for mastering [Taskflow](https://github.com/taskflow/taskflow), a modern C++ library for task-parallel programming. Here, we provide structured resources for developers, students, and researchers, covering everything from fundamental task-graph concepts to advanced techniques in high-performance task-parallel computing using Taskflow!
 
 ## 📺 Video Tutorials
 Explore our YouTube tutorials on Taskflow programming:
