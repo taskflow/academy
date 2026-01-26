@@ -13,7 +13,7 @@ Explore our YouTube tutorials on Taskflow programming:
 | [Control Taskflow Graph (CTFG) Programming](https://youtu.be/SghMH2TGXEs?si=nb_xZCqlb7N81aT9) | [PDF](slides/control-taskflow-graph-programming-model.pdf) | [Conditional Tasking](https://taskflow.github.io/taskflow/ConditionalTasking.html) |
 | [Executor](https://www.youtube.com/watch?v=XHU5AbTeUfI) | [PDF](slides/executor.pdf) | [Executor](https://taskflow.github.io/taskflow/ExecuteTaskflow.html) |
 | [Dynamic Task Graph Programming (DTGP)](https://www.youtube.com/watch?v=3tZYLT2rAHI) | [PDF](slides/dynamic-task-graph-programming.pdf) | [Async Tasks with Dependencies](https://taskflow.github.io/taskflow/DependentAsyncTasking.html) |
-| [Recursive Task Parallelism)](https://www.youtube.com/watch?v=q3sxiXB7dF0) | [PDF](slides/recursive-task-parallelism.pdf) | [Runtime Tasking](https://taskflow.github.io/taskflow/RuntimeTasking.html) \ [Task Group](https://taskflow.github.io/taskflow/TaskGroup.html) |
+| [Recursive Task Parallelism](https://www.youtube.com/watch?v=q3sxiXB7dF0) | [PDF](slides/recursive-task-parallelism.pdf) | [Runtime Tasking](https://taskflow.github.io/taskflow/RuntimeTasking.html) <br> [Task Group](https://taskflow.github.io/taskflow/TaskGroup.html) |
 | [Composable Tasking](https://www.youtube.com/watch?v=jH28hRMQ1Ww) | [PDF](slides/composable-tasking.pdf) | [Composable Tasking](https://taskflow.github.io/taskflow/ComposableTasking.html) |
 
 ## 🧩 Related Resources
