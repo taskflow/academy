@@ -15,6 +15,7 @@ Explore our YouTube tutorials on Taskflow programming:
 | [Dynamic Task Graph Programming (DTGP)](https://www.youtube.com/watch?v=3tZYLT2rAHI) | [PDF](slides/dynamic-task-graph-programming.pdf) | [Async Tasks with Dependencies](https://taskflow.github.io/taskflow/DependentAsyncTasking.html) |
 | [Recursive Task Parallelism](https://www.youtube.com/watch?v=q3sxiXB7dF0) | [PDF](slides/recursive-task-parallelism.pdf) | [Runtime Tasking](https://taskflow.github.io/taskflow/RuntimeTasking.html) <br> [Task Group](https://taskflow.github.io/taskflow/TaskGroup.html) |
 | [Composable Tasking](https://www.youtube.com/watch?v=jH28hRMQ1Ww) | [PDF](slides/composable-tasking.pdf) | [Composable Tasking](https://taskflow.github.io/taskflow/ComposableTasking.html) |
+| [Standard Parallel Algorithm Tasks](https://www.youtube.com/watch?v=TvhWeuYkTRI) | [PDF](slides/standard-parallel-algorithm-tasks.pdf) | [Taskflow Algorithm](https://taskflow.github.io/taskflow/Algorithms.html) |
 
 ## 🧩 Related Resources
 - [Taskflow Website](https://taskflow.github.io)
